@@ -1,0 +1,21 @@
+---
+title: "partner2"
+output: html_document
+author: "Allan Juarez"
+date: "8/27/2020"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+   1.  Your (the Partner’s) full name and GitHub username.  **Adam Brandt abrandt1901**
+
+2.  What did the Owner do in the most recent commit? What is the commit ID?  Added, "HW1" and ID is 07e38987cc2e375cace5683e1700669c2053af59
+
+3.  Knit the Owner’s hw1.Rmd. Are you able to do so without error? If you cannot, what errors did you counter?  *no errors *
+
+
+4.  Also include an error/difficulty you encountered, or a tip for making Git/GitHub easier. *I had no trouble and no tips  *
+
+
